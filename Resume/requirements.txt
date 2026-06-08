@@ -1,0 +1,5 @@
+streamlit
+pdfminer3
+pdfminer.six
+requests
+beautifulsoup4
